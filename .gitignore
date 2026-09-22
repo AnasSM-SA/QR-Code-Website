@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Production and test output
+dist/
+coverage/
+.vite/
+
+# TypeScript build metadata
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local editor and operating-system files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local Codex workspace data
+.codex/
+/AGENTS.md
+/docs/
