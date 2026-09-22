@@ -1,4 +1,5 @@
 # QR Studio
+# https://anassm-sa.github.io/QR-Code-Website/
 
 QR Studio creates QR codes in your browser. No account or server is needed, and your QR content is not saved.
 
